@@ -26,3 +26,5 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=thomas-chong)
 ![GitHub User's stars](https://img.shields.io/github/stars/thomas-chong)
+
+<h3 align="center">Check out the following repositories! 👇</h3>
