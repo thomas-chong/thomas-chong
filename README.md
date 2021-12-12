@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there, I'm Thomas Chong👋
 
-<!--
-**thomas-chong/thomas-chong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomas-chong)](https://github.com/thomas-chong/github-readme-stats)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-chong&layout=compact)](https://github.com/thomas-chong/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile View Counter](https://komarev.com/ghpvc/?username=thomas-chong)
+
+## About me
+
+- 🏠 My home base is in Hong Kong.
+- 🔭 I’m currently a final year CS student in HKUST.
+- 🌱 I’m focusing on data sicence/AI related projects.
+- 💻 My recent goal is to post more technical articles on Medium.
