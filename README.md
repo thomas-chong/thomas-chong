@@ -5,6 +5,10 @@
 - 🌱 I’m focusing on data sicence/AI related projects.
 - 💻 My recent goal is to post more technical articles on Medium.
 
+## Medium Post 📰
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Github Stat 📈
 
 [![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomas-chong)](https://github.com/thomas-chong/github-readme-stats)
