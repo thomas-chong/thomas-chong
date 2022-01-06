@@ -14,6 +14,7 @@
 
 ## Medium Post 📰
 <!-- BLOG-POST-LIST:START -->
+- [How to Summarize Financial News with Abstractive Summarization?](https://medium.com/@chongcht/how-to-summarize-financial-news-with-abstractive-summarization-d15440b0ae6b?source=rss-995e9026baff------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Stat 📊
